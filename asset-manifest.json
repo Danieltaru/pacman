@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pacman/static/js/main.c65806b4.js",
+    "static/js/787.1795a592.chunk.js": "/pacman/static/js/787.1795a592.chunk.js",
+    "static/media/Pac-Man.png": "/pacman/static/media/Pac-Man.c7f4356b8a389457c48c.png",
+    "index.html": "/pacman/index.html",
+    "main.c65806b4.js.map": "/pacman/static/js/main.c65806b4.js.map",
+    "787.1795a592.chunk.js.map": "/pacman/static/js/787.1795a592.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c65806b4.js"
+  ]
+}
